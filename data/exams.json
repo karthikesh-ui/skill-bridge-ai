@@ -1,0 +1,22 @@
+{
+  "software-engineer": "JEE Main or state engineering entrance for many B.Tech seats",
+  "ai-engineer": "JEE Main or state entrance where applicable",
+  "data-analyst": "College-specific admissions",
+  "data-scientist": "Course-specific admissions",
+  "cybersecurity": "JEE Main or institution-specific entrance",
+  "web-developer": "Course-specific admissions",
+  "mechanical-engineer": "JEE Main or state engineering entrance",
+  "civil-engineer": "JEE Main or state engineering entrance",
+  "electrical-engineer": "JEE Main or state engineering entrance",
+  "doctor": "NEET-UG; verify current rules",
+  "nurse": "Institution/state entrance as applicable",
+  "pharmacist": "State/institution-specific entrance",
+  "civil-services": "UPSC Civil Services Examination: Prelims, Mains, Interview",
+  "state-government": "State PSC or role-specific recruitment",
+  "government-services": "SSC, railways or other official recruitment as applicable",
+  "chartered-accountant": "ICAI examinations; verify current scheme",
+  "finance": "College-specific admissions; certification rules vary",
+  "lawyer": "CLAT or institution/state-specific entrance",
+  "teacher": "CTET/state TET or eligibility exams as applicable",
+  "designer": "UCEED/NID entrance for specific colleges"
+}

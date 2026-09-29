@@ -1,0 +1,258 @@
+[
+  {
+    "id": "software-engineer",
+    "name": "Software Engineer",
+    "category": "Technology",
+    "description": "Build useful applications",
+    "tags": [
+      "computers",
+      "math",
+      "problems"
+    ],
+    "preview": "PCM or any stream for alternative routes",
+    "day_to_day": "Build applications with code and solve product problems."
+  },
+  {
+    "id": "ai-engineer",
+    "name": "AI/ML Engineer",
+    "category": "Technology",
+    "description": "Build intelligent systems",
+    "tags": [
+      "computers",
+      "math",
+      "problems"
+    ],
+    "preview": "Mathematics recommended",
+    "day_to_day": "Combine coding, mathematics and model evaluation."
+  },
+  {
+    "id": "data-analyst",
+    "name": "Data Analyst",
+    "category": "Technology",
+    "description": "Turn data into decisions",
+    "tags": [
+      "math",
+      "computers",
+      "business"
+    ],
+    "preview": "Any stream; Mathematics helpful",
+    "day_to_day": "Use data to explain trends and support decisions."
+  },
+  {
+    "id": "data-scientist",
+    "name": "Data Scientist",
+    "category": "Technology",
+    "description": "Model patterns in data",
+    "tags": [
+      "math",
+      "computers",
+      "problems"
+    ],
+    "preview": "Mathematics recommended",
+    "day_to_day": "Use statistics and programming to answer difficult questions."
+  },
+  {
+    "id": "cybersecurity",
+    "name": "Cybersecurity Specialist",
+    "category": "Technology",
+    "description": "Protect digital systems",
+    "tags": [
+      "computers",
+      "problems"
+    ],
+    "preview": "Any stream; Mathematics helps for engineering",
+    "day_to_day": "Investigate risks and defend computer systems."
+  },
+  {
+    "id": "web-developer",
+    "name": "Web Developer",
+    "category": "Technology",
+    "description": "Create websites and apps",
+    "tags": [
+      "computers",
+      "creative"
+    ],
+    "preview": "Any stream",
+    "day_to_day": "Build usable websites through code and design."
+  },
+  {
+    "id": "mechanical-engineer",
+    "name": "Mechanical Engineer",
+    "category": "Engineering",
+    "description": "Design and improve machines",
+    "tags": [
+      "physics",
+      "math",
+      "practical"
+    ],
+    "preview": "PCM commonly required for engineering entrance",
+    "day_to_day": "Design, test and improve physical machines."
+  },
+  {
+    "id": "civil-engineer",
+    "name": "Civil Engineer",
+    "category": "Engineering",
+    "description": "Plan and build infrastructure",
+    "tags": [
+      "physics",
+      "math",
+      "practical"
+    ],
+    "preview": "PCM commonly required for engineering entrance",
+    "day_to_day": "Plan structures and infrastructure projects."
+  },
+  {
+    "id": "electrical-engineer",
+    "name": "Electrical/ECE Engineer",
+    "category": "Engineering",
+    "description": "Develop electrical and electronic systems",
+    "tags": [
+      "physics",
+      "math",
+      "practical"
+    ],
+    "preview": "PCM commonly required for engineering entrance",
+    "day_to_day": "Work with circuits, power and electronic devices."
+  },
+  {
+    "id": "doctor",
+    "name": "Doctor (MBBS)",
+    "category": "Medical",
+    "description": "Diagnose and treat patients",
+    "tags": [
+      "biology",
+      "helping"
+    ],
+    "preview": "Physics, Chemistry and Biology with applicable eligibility",
+    "day_to_day": "Study human health and care for patients."
+  },
+  {
+    "id": "nurse",
+    "name": "Nurse",
+    "category": "Medical",
+    "description": "Care for patients",
+    "tags": [
+      "biology",
+      "helping",
+      "practical"
+    ],
+    "preview": "Science with Biology often relevant; course rules vary",
+    "day_to_day": "Provide patient care and work in healthcare teams."
+  },
+  {
+    "id": "pharmacist",
+    "name": "Pharmacist",
+    "category": "Medical",
+    "description": "Work with medicines and patient safety",
+    "tags": [
+      "biology",
+      "chemistry",
+      "helping"
+    ],
+    "preview": "Science subjects according to program eligibility",
+    "day_to_day": "Study medicines and safe dispensing."
+  },
+  {
+    "id": "civil-services",
+    "name": "Civil Services (UPSC)",
+    "category": "Public Service",
+    "description": "Serve through administration and policy",
+    "tags": [
+      "public",
+      "helping",
+      "reading"
+    ],
+    "preview": "Any stream can lead to an eligible degree",
+    "day_to_day": "Work in public administration after a degree and selection process."
+  },
+  {
+    "id": "state-government",
+    "name": "State Government Services",
+    "category": "Public Service",
+    "description": "Work in state administration",
+    "tags": [
+      "public",
+      "helping",
+      "reading"
+    ],
+    "preview": "Choose a stream matching your strengths",
+    "day_to_day": "Explore roles filled through state recruitment."
+  },
+  {
+    "id": "government-services",
+    "name": "Government Services",
+    "category": "Public Service",
+    "description": "Explore public sector roles",
+    "tags": [
+      "public",
+      "practical",
+      "problems"
+    ],
+    "preview": "Any stream; role-specific rules vary",
+    "day_to_day": "Compare role-specific public sector opportunities."
+  },
+  {
+    "id": "chartered-accountant",
+    "name": "Chartered Accountant",
+    "category": "Commerce",
+    "description": "Audit and advise on finance",
+    "tags": [
+      "business",
+      "math",
+      "problems"
+    ],
+    "preview": "Commerce helpful; other streams may be eligible",
+    "day_to_day": "Study accounting, audit, tax and financial reporting."
+  },
+  {
+    "id": "finance",
+    "name": "Finance Professional",
+    "category": "Commerce",
+    "description": "Help people or firms manage money",
+    "tags": [
+      "business",
+      "math"
+    ],
+    "preview": "Commerce helpful; other streams possible",
+    "day_to_day": "Work with budgets, markets or financial operations."
+  },
+  {
+    "id": "lawyer",
+    "name": "Lawyer",
+    "category": "Law",
+    "description": "Advise and represent clients",
+    "tags": [
+      "reading",
+      "public",
+      "helping"
+    ],
+    "preview": "Any stream",
+    "day_to_day": "Study law and develop research and advocacy skills."
+  },
+  {
+    "id": "teacher",
+    "name": "Teacher / Lecturer",
+    "category": "Education",
+    "description": "Help learners grow",
+    "tags": [
+      "helping",
+      "reading",
+      "creative"
+    ],
+    "preview": "Choose subjects you want to teach",
+    "day_to_day": "Help students learn a subject and grow."
+  },
+  {
+    "id": "designer",
+    "name": "UI/UX Designer",
+    "category": "Creative",
+    "description": "Design clear digital experiences",
+    "tags": [
+      "creative",
+      "computers",
+      "helping"
+    ],
+    "preview": "Any stream; art/design practice helps",
+    "day_to_day": "Research user needs and design digital experiences."
+  }
+]

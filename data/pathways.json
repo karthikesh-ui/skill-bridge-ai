@@ -1,0 +1,1930 @@
+{
+  "software-engineer": {
+    "overview": "Build useful applications",
+    "stream": "PCM or any stream for alternative routes",
+    "degree": "B.Tech CSE/IT; BCA; B.Sc Computer Science",
+    "exams": "JEE Main or state engineering entrance for many B.Tech seats",
+    "skills": [
+      "Programming",
+      "DSA",
+      "SQL",
+      "Git"
+    ],
+    "preparation": "Build a web app; complete an internship",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "PCM or any stream for alternative routes",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Tech CSE/IT; BCA; B.Sc Computer Science",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Programming, DSA, SQL, Git",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Build a web app; complete an internship",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Software Engineer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "BCA route",
+        "stages": [
+          {
+            "title": "10th",
+            "detail": "Explore computers",
+            "alternatives": "Verify current admission requirements."
+          },
+          {
+            "title": "11th–12th",
+            "detail": "Any eligible stream; mathematics requirements vary",
+            "alternatives": "Verify current admission requirements."
+          },
+          {
+            "title": "BCA",
+            "detail": "Learn programming and databases",
+            "alternatives": "Verify current admission requirements."
+          },
+          {
+            "title": "MCA or portfolio",
+            "detail": "MCA is optional for some jobs",
+            "alternatives": "Verify current admission requirements."
+          },
+          {
+            "title": "Projects and internship",
+            "detail": "Build applications",
+            "alternatives": "Verify current admission requirements."
+          },
+          {
+            "title": "Career",
+            "detail": "Software Engineer",
+            "alternatives": "Verify current admission requirements."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Tech CSE/IT",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "BCA",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "B.Sc Computer Science",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Tech CSE/IT and one other route",
+      "Practise Programming",
+      "Build a web app; complete an internship"
+    ]
+  },
+  "ai-engineer": {
+    "overview": "Build intelligent systems",
+    "stream": "Mathematics recommended",
+    "degree": "B.Tech AI/CSE; B.Sc Mathematics/CS; BCA plus advanced study",
+    "exams": "JEE Main or state entrance where applicable",
+    "skills": [
+      "Python",
+      "statistics",
+      "machine learning",
+      "SQL"
+    ],
+    "preparation": "Train and evaluate a small model",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Mathematics recommended",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Tech AI/CSE; B.Sc Mathematics/CS; BCA plus advanced study",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Python, statistics, machine learning, SQL",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Train and evaluate a small model",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "AI/ML Engineer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Mathematics recommended",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "B.Sc Mathematics/CS",
+            "detail": "Explore B.Sc Mathematics/CS. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Tech AI/CSE; B.Sc Mathematics/CS; BCA plus advanced study."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Python, statistics, machine learning, SQL",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Train and evaluate a small model",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "AI/ML Engineer",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Tech AI/CSE",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "B.Sc Mathematics/CS",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "BCA plus advanced study",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Tech AI/CSE and one other route",
+      "Practise Python",
+      "Train and evaluate a small model"
+    ]
+  },
+  "data-analyst": {
+    "overview": "Turn data into decisions",
+    "stream": "Any stream; Mathematics helpful",
+    "degree": "B.Sc Statistics; BCA; B.Com; related degree",
+    "exams": "College-specific admissions",
+    "skills": [
+      "Spreadsheets",
+      "SQL",
+      "Python",
+      "visualization"
+    ],
+    "preparation": "Create a data dashboard",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream; Mathematics helpful",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Sc Statistics; BCA; B.Com; related degree",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Spreadsheets, SQL, Python, visualization",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Create a data dashboard",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Data Analyst",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream; Mathematics helpful",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "BCA",
+            "detail": "Explore BCA. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Sc Statistics; BCA; B.Com; related degree."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Spreadsheets, SQL, Python, visualization",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Create a data dashboard",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Data Analyst",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Sc Statistics",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "BCA",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "B.Com",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "related degree",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Sc Statistics and one other route",
+      "Practise Spreadsheets",
+      "Create a data dashboard"
+    ]
+  },
+  "data-scientist": {
+    "overview": "Model patterns in data",
+    "stream": "Mathematics recommended",
+    "degree": "B.Sc Statistics/CS; B.Tech; postgraduate specialization",
+    "exams": "Course-specific admissions",
+    "skills": [
+      "Statistics",
+      "Python",
+      "SQL",
+      "machine learning"
+    ],
+    "preparation": "Publish a data project",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Mathematics recommended",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Sc Statistics/CS; B.Tech; postgraduate specialization",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Statistics, Python, SQL, machine learning",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Publish a data project",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Data Scientist",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Mathematics recommended",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "B.Tech",
+            "detail": "Explore B.Tech. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Sc Statistics/CS; B.Tech; postgraduate specialization."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Statistics, Python, SQL, machine learning",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Publish a data project",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Data Scientist",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Sc Statistics/CS",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "B.Tech",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "postgraduate specialization",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Sc Statistics/CS and one other route",
+      "Practise Statistics",
+      "Publish a data project"
+    ]
+  },
+  "cybersecurity": {
+    "overview": "Protect digital systems",
+    "stream": "Any stream; Mathematics helps for engineering",
+    "degree": "B.Tech CSE; BCA; B.Sc CS; certifications",
+    "exams": "JEE Main or institution-specific entrance",
+    "skills": [
+      "Networks",
+      "Linux",
+      "security fundamentals"
+    ],
+    "preparation": "Practice in legal labs",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream; Mathematics helps for engineering",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Tech CSE; BCA; B.Sc CS; certifications",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Networks, Linux, security fundamentals",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Practice in legal labs",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Cybersecurity Specialist",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream; Mathematics helps for engineering",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "BCA",
+            "detail": "Explore BCA. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Tech CSE; BCA; B.Sc CS; certifications."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Networks, Linux, security fundamentals",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Practice in legal labs",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Cybersecurity Specialist",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Tech CSE",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "BCA",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "B.Sc CS",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "certifications",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Tech CSE and one other route",
+      "Practise Networks",
+      "Practice in legal labs"
+    ]
+  },
+  "web-developer": {
+    "overview": "Create websites and apps",
+    "stream": "Any stream",
+    "degree": "BCA; B.Sc CS; diploma; portfolio-based learning",
+    "exams": "Course-specific admissions",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "accessibility"
+    ],
+    "preparation": "Build and deploy a portfolio",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "BCA; B.Sc CS; diploma; portfolio-based learning",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "HTML, CSS, JavaScript, accessibility",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Build and deploy a portfolio",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Web Developer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "B.Sc CS",
+            "detail": "Explore B.Sc CS. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: BCA; B.Sc CS; diploma; portfolio-based learning."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "HTML, CSS, JavaScript, accessibility",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Build and deploy a portfolio",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Web Developer",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "BCA",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "B.Sc CS",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "diploma",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "portfolio-based learning",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore BCA and one other route",
+      "Practise HTML",
+      "Build and deploy a portfolio"
+    ]
+  },
+  "mechanical-engineer": {
+    "overview": "Design and improve machines",
+    "stream": "PCM commonly required for engineering entrance",
+    "degree": "B.Tech Mechanical; diploma then lateral entry where permitted",
+    "exams": "JEE Main or state engineering entrance",
+    "skills": [
+      "CAD",
+      "mechanics",
+      "materials"
+    ],
+    "preparation": "Design a prototype",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "PCM commonly required for engineering entrance",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Tech Mechanical; diploma then lateral entry where permitted",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "CAD, mechanics, materials",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Design a prototype",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Mechanical Engineer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "PCM commonly required for engineering entrance",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "diploma then lateral entry where permitted",
+            "detail": "Explore diploma then lateral entry where permitted. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Tech Mechanical; diploma then lateral entry where permitted."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "CAD, mechanics, materials",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Design a prototype",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Mechanical Engineer",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Tech Mechanical",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "diploma then lateral entry where permitted",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Tech Mechanical and one other route",
+      "Practise CAD",
+      "Design a prototype"
+    ]
+  },
+  "civil-engineer": {
+    "overview": "Plan and build infrastructure",
+    "stream": "PCM commonly required for engineering entrance",
+    "degree": "B.Tech Civil; diploma then lateral entry where permitted",
+    "exams": "JEE Main or state engineering entrance",
+    "skills": [
+      "Surveying",
+      "CAD",
+      "structures"
+    ],
+    "preparation": "Complete a field project",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "PCM commonly required for engineering entrance",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Tech Civil; diploma then lateral entry where permitted",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Surveying, CAD, structures",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Complete a field project",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Civil Engineer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "PCM commonly required for engineering entrance",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "diploma then lateral entry where permitted",
+            "detail": "Explore diploma then lateral entry where permitted. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Tech Civil; diploma then lateral entry where permitted."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Surveying, CAD, structures",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Complete a field project",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Civil Engineer",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Tech Civil",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "diploma then lateral entry where permitted",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Tech Civil and one other route",
+      "Practise Surveying",
+      "Complete a field project"
+    ]
+  },
+  "electrical-engineer": {
+    "overview": "Develop electrical and electronic systems",
+    "stream": "PCM commonly required for engineering entrance",
+    "degree": "B.Tech EEE/ECE; diploma then lateral entry where permitted",
+    "exams": "JEE Main or state engineering entrance",
+    "skills": [
+      "Circuits",
+      "electronics",
+      "programming"
+    ],
+    "preparation": "Build a sensor project",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "PCM commonly required for engineering entrance",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Tech EEE/ECE; diploma then lateral entry where permitted",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Circuits, electronics, programming",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Build a sensor project",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Electrical/ECE Engineer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "PCM commonly required for engineering entrance",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "diploma then lateral entry where permitted",
+            "detail": "Explore diploma then lateral entry where permitted. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Tech EEE/ECE; diploma then lateral entry where permitted."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Circuits, electronics, programming",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Build a sensor project",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Electrical/ECE Engineer",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Tech EEE/ECE",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "diploma then lateral entry where permitted",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Tech EEE/ECE and one other route",
+      "Practise Circuits",
+      "Build a sensor project"
+    ]
+  },
+  "doctor": {
+    "overview": "Diagnose and treat patients",
+    "stream": "Physics, Chemistry and Biology with applicable eligibility",
+    "degree": "MBBS at a recognized medical college",
+    "exams": "NEET-UG; verify current rules",
+    "skills": [
+      "Biology",
+      "communication",
+      "clinical reasoning"
+    ],
+    "preparation": "Observe healthcare careers and prepare for NEET",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Physics, Chemistry and Biology with applicable eligibility",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "MBBS at a recognized medical college",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Biology, communication, clinical reasoning",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Observe healthcare careers and prepare for NEET",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Doctor (MBBS)",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "MBBS at a recognized medical college",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore MBBS at a recognized medical college and one other route",
+      "Practise Biology",
+      "Observe healthcare careers and prepare for NEET"
+    ]
+  },
+  "nurse": {
+    "overview": "Care for patients",
+    "stream": "Science with Biology often relevant; course rules vary",
+    "degree": "B.Sc Nursing; GNM where available",
+    "exams": "Institution/state entrance as applicable",
+    "skills": [
+      "Patient care",
+      "anatomy",
+      "communication"
+    ],
+    "preparation": "Clinical training during approved course",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Science with Biology often relevant; course rules vary",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Sc Nursing; GNM where available",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Patient care, anatomy, communication",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Clinical training during approved course",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Nurse",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Science with Biology often relevant; course rules vary",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "GNM where available",
+            "detail": "Explore GNM where available. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Sc Nursing; GNM where available."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Patient care, anatomy, communication",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Clinical training during approved course",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Nurse",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Sc Nursing",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "GNM where available",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Sc Nursing and one other route",
+      "Practise Patient care",
+      "Clinical training during approved course"
+    ]
+  },
+  "pharmacist": {
+    "overview": "Work with medicines and patient safety",
+    "stream": "Science subjects according to program eligibility",
+    "degree": "B.Pharm; D.Pharm",
+    "exams": "State/institution-specific entrance",
+    "skills": [
+      "Pharmacology",
+      "chemistry",
+      "dispensing"
+    ],
+    "preparation": "Approved practical training",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Science subjects according to program eligibility",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Pharm; D.Pharm",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Pharmacology, chemistry, dispensing",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Approved practical training",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Pharmacist",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Science subjects according to program eligibility",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "D.Pharm",
+            "detail": "Explore D.Pharm. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Pharm; D.Pharm."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Pharmacology, chemistry, dispensing",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Approved practical training",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Pharmacist",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Pharm",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "D.Pharm",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Pharm and one other route",
+      "Practise Pharmacology",
+      "Approved practical training"
+    ]
+  },
+  "civil-services": {
+    "overview": "Serve through administration and policy",
+    "stream": "Any stream can lead to an eligible degree",
+    "degree": "Bachelor’s degree in a recognized discipline",
+    "exams": "UPSC Civil Services Examination: Prelims, Mains, Interview",
+    "skills": [
+      "Current affairs",
+      "writing",
+      "analysis"
+    ],
+    "preparation": "Build reading and answer-writing habits",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream can lead to an eligible degree",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "Bachelor’s degree in a recognized discipline",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Current affairs, writing, analysis",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Build reading and answer-writing habits",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Civil Services (UPSC)",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Degree in any discipline",
+        "stages": [
+          {
+            "title": "10th",
+            "detail": "Build reading habits",
+            "alternatives": "Verify latest UPSC notification."
+          },
+          {
+            "title": "11th–12th",
+            "detail": "Choose a suitable stream",
+            "alternatives": "Verify latest UPSC notification."
+          },
+          {
+            "title": "Bachelor’s degree",
+            "detail": "Choose an eligible recognized degree",
+            "alternatives": "Verify latest UPSC notification."
+          },
+          {
+            "title": "Preparation",
+            "detail": "Study syllabus and practice writing",
+            "alternatives": "Verify latest UPSC notification."
+          },
+          {
+            "title": "UPSC examination",
+            "detail": "Prelims, Mains, Interview",
+            "alternatives": "Verify latest UPSC notification."
+          },
+          {
+            "title": "Career",
+            "detail": "Civil services subject to selection",
+            "alternatives": "Verify latest UPSC notification."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "Bachelor’s degree in a recognized discipline",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore Bachelor’s degree in a recognized discipline and one other route",
+      "Practise Current affairs",
+      "Build reading and answer-writing habits"
+    ]
+  },
+  "state-government": {
+    "overview": "Work in state administration",
+    "stream": "Choose a stream matching your strengths",
+    "degree": "Bachelor’s degree for many posts; some posts differ",
+    "exams": "State PSC or role-specific recruitment",
+    "skills": [
+      "General studies",
+      "language",
+      "reasoning"
+    ],
+    "preparation": "Review state notification and practice papers",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Choose a stream matching your strengths",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "Bachelor’s degree for many posts; some posts differ",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "General studies, language, reasoning",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Review state notification and practice papers",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "State Government Services",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Choose a stream matching your strengths",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "some posts differ",
+            "detail": "Explore some posts differ. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: Bachelor’s degree for many posts; some posts differ."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "General studies, language, reasoning",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Review state notification and practice papers",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "State Government Services",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "Bachelor’s degree for many posts",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "some posts differ",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore Bachelor’s degree for many posts and one other route",
+      "Practise General studies",
+      "Review state notification and practice papers"
+    ]
+  },
+  "government-services": {
+    "overview": "Explore public sector roles",
+    "stream": "Any stream; role-specific rules vary",
+    "degree": "12th, diploma or degree depending on post",
+    "exams": "SSC, railways or other official recruitment as applicable",
+    "skills": [
+      "Reasoning",
+      "quantitative aptitude",
+      "communication"
+    ],
+    "preparation": "Pick a specific post and verify notice",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream; role-specific rules vary",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "12th, diploma or degree depending on post",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Reasoning, quantitative aptitude, communication",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Pick a specific post and verify notice",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Government Services",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "12th, diploma or degree depending on post",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore 12th, diploma or degree depending on post and one other route",
+      "Practise Reasoning",
+      "Pick a specific post and verify notice"
+    ]
+  },
+  "chartered-accountant": {
+    "overview": "Audit and advise on finance",
+    "stream": "Commerce helpful; other streams may be eligible",
+    "degree": "ICAI CA Foundation, Intermediate, practical training, Final",
+    "exams": "ICAI examinations; verify current scheme",
+    "skills": [
+      "Accounting",
+      "taxation",
+      "auditing"
+    ],
+    "preparation": "Learn bookkeeping and follow ICAI guidance",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Commerce helpful; other streams may be eligible",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "ICAI CA Foundation, Intermediate, practical training, Final",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Accounting, taxation, auditing",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Learn bookkeeping and follow ICAI guidance",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Chartered Accountant",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "ICAI CA Foundation, Intermediate, practical training, Final",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore ICAI CA Foundation, Intermediate, practical training, Final and one other route",
+      "Practise Accounting",
+      "Learn bookkeeping and follow ICAI guidance"
+    ]
+  },
+  "finance": {
+    "overview": "Help people or firms manage money",
+    "stream": "Commerce helpful; other streams possible",
+    "degree": "B.Com; BBA; economics degree; relevant certifications",
+    "exams": "College-specific admissions; certification rules vary",
+    "skills": [
+      "Accounting",
+      "spreadsheets",
+      "financial analysis"
+    ],
+    "preparation": "Analyze a sample budget",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Commerce helpful; other streams possible",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "B.Com; BBA; economics degree; relevant certifications",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Accounting, spreadsheets, financial analysis",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Analyze a sample budget",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Finance Professional",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Commerce helpful; other streams possible",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "BBA",
+            "detail": "Explore BBA. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: B.Com; BBA; economics degree; relevant certifications."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Accounting, spreadsheets, financial analysis",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Analyze a sample budget",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Finance Professional",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "B.Com",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "BBA",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "economics degree",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "relevant certifications",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore B.Com and one other route",
+      "Practise Accounting",
+      "Analyze a sample budget"
+    ]
+  },
+  "lawyer": {
+    "overview": "Advise and represent clients",
+    "stream": "Any stream",
+    "degree": "Five-year integrated law after 12th; three-year LLB after degree",
+    "exams": "CLAT or institution/state-specific entrance",
+    "skills": [
+      "Research",
+      "writing",
+      "argumentation"
+    ],
+    "preparation": "Moot court and internships during study",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "Five-year integrated law after 12th; three-year LLB after degree",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Research, writing, argumentation",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Moot court and internships during study",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Lawyer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "three-year LLB after degree",
+            "detail": "Explore three-year LLB after degree. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: Five-year integrated law after 12th; three-year LLB after degree."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Research, writing, argumentation",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Moot court and internships during study",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Lawyer",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "Five-year integrated law after 12th",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "three-year LLB after degree",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore Five-year integrated law after 12th and one other route",
+      "Practise Research",
+      "Moot court and internships during study"
+    ]
+  },
+  "teacher": {
+    "overview": "Help learners grow",
+    "stream": "Choose subjects you want to teach",
+    "degree": "Bachelor’s plus teacher education for school roles; postgraduate study for lecturer roles",
+    "exams": "CTET/state TET or eligibility exams as applicable",
+    "skills": [
+      "Teaching",
+      "subject knowledge",
+      "communication"
+    ],
+    "preparation": "Tutor and create lessons",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Choose subjects you want to teach",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "Bachelor’s plus teacher education for school roles; postgraduate study for lecturer roles",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "Teaching, subject knowledge, communication",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Tutor and create lessons",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Teacher / Lecturer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Choose subjects you want to teach",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "postgraduate study for lecturer roles",
+            "detail": "Explore postgraduate study for lecturer roles. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: Bachelor’s plus teacher education for school roles; postgraduate study for lecturer roles."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "Teaching, subject knowledge, communication",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Tutor and create lessons",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "Teacher / Lecturer",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "Bachelor’s plus teacher education for school roles",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "postgraduate study for lecturer roles",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore Bachelor’s plus teacher education for school roles and one other route",
+      "Practise Teaching",
+      "Tutor and create lessons"
+    ]
+  },
+  "designer": {
+    "overview": "Design clear digital experiences",
+    "stream": "Any stream; art/design practice helps",
+    "degree": "Design degree/diploma; related degree plus portfolio",
+    "exams": "UCEED/NID entrance for specific colleges",
+    "skills": [
+      "User research",
+      "wireframes",
+      "prototyping"
+    ],
+    "preparation": "Redesign an app and test with users",
+    "routes": [
+      {
+        "name": "Main route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current education and interests.",
+            "alternatives": "You can start exploring at any stage."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream; art/design practice helps",
+            "alternatives": "Already chose another stream? Check each program’s current eligibility and consider other courses."
+          },
+          {
+            "title": "Course / degree",
+            "detail": "Design degree/diploma; related degree plus portfolio",
+            "alternatives": "Compare listed options and official institution requirements."
+          },
+          {
+            "title": "Skills",
+            "detail": "User research, wireframes, prototyping",
+            "alternatives": "Learn through free resources and practice."
+          },
+          {
+            "title": "Experience",
+            "detail": "Redesign an app and test with users",
+            "alternatives": "Try a small project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "UI/UX Designer",
+            "alternatives": "Entry requirements vary by employer and role."
+          }
+        ]
+      },
+      {
+        "name": "Alternative course route",
+        "stages": [
+          {
+            "title": "10th / current stage",
+            "detail": "Record your current stage and strengths.",
+            "alternatives": "You can re-enter planning at 11th, 12th or later."
+          },
+          {
+            "title": "11th–12th / preparation",
+            "detail": "Any stream; art/design practice helps",
+            "alternatives": "Already chose a different stream? Verify admission requirements for each course."
+          },
+          {
+            "title": "related degree plus portfolio",
+            "detail": "Explore related degree plus portfolio. Check the official institution’s current admission criteria.",
+            "alternatives": "Other example options: Design degree/diploma; related degree plus portfolio."
+          },
+          {
+            "title": "Build key skills",
+            "detail": "User research, wireframes, prototyping",
+            "alternatives": "Use structured practice and track your progress."
+          },
+          {
+            "title": "Experience",
+            "detail": "Redesign an app and test with users",
+            "alternatives": "Choose another relevant project or supervised experience."
+          },
+          {
+            "title": "Career",
+            "detail": "UI/UX Designer",
+            "alternatives": "Jobs and professional requirements vary by role."
+          }
+        ]
+      }
+    ],
+    "course_options": [
+      {
+        "name": "Design degree/diploma",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      },
+      {
+        "name": "related degree plus portfolio",
+        "note": "Compare curriculum, admissions, fees and current eligibility on the institution’s official website."
+      }
+    ],
+    "decision_help": "Choose a route you can access from your current subjects and stage. Compare course length, cost, practical work and the entrance process before applying.",
+    "starter_actions": [
+      "Explore Design degree/diploma and one other route",
+      "Practise User research",
+      "Redesign an app and test with users"
+    ]
+  }
+}

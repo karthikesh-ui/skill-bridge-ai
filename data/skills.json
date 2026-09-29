@@ -1,0 +1,107 @@
+{
+  "software-engineer": [
+    "Programming",
+    "DSA",
+    "SQL",
+    "Git"
+  ],
+  "ai-engineer": [
+    "Python",
+    "statistics",
+    "machine learning",
+    "SQL"
+  ],
+  "data-analyst": [
+    "Spreadsheets",
+    "SQL",
+    "Python",
+    "visualization"
+  ],
+  "data-scientist": [
+    "Statistics",
+    "Python",
+    "SQL",
+    "machine learning"
+  ],
+  "cybersecurity": [
+    "Networks",
+    "Linux",
+    "security fundamentals"
+  ],
+  "web-developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "accessibility"
+  ],
+  "mechanical-engineer": [
+    "CAD",
+    "mechanics",
+    "materials"
+  ],
+  "civil-engineer": [
+    "Surveying",
+    "CAD",
+    "structures"
+  ],
+  "electrical-engineer": [
+    "Circuits",
+    "electronics",
+    "programming"
+  ],
+  "doctor": [
+    "Biology",
+    "communication",
+    "clinical reasoning"
+  ],
+  "nurse": [
+    "Patient care",
+    "anatomy",
+    "communication"
+  ],
+  "pharmacist": [
+    "Pharmacology",
+    "chemistry",
+    "dispensing"
+  ],
+  "civil-services": [
+    "Current affairs",
+    "writing",
+    "analysis"
+  ],
+  "state-government": [
+    "General studies",
+    "language",
+    "reasoning"
+  ],
+  "government-services": [
+    "Reasoning",
+    "quantitative aptitude",
+    "communication"
+  ],
+  "chartered-accountant": [
+    "Accounting",
+    "taxation",
+    "auditing"
+  ],
+  "finance": [
+    "Accounting",
+    "spreadsheets",
+    "financial analysis"
+  ],
+  "lawyer": [
+    "Research",
+    "writing",
+    "argumentation"
+  ],
+  "teacher": [
+    "Teaching",
+    "subject knowledge",
+    "communication"
+  ],
+  "designer": [
+    "User research",
+    "wireframes",
+    "prototyping"
+  ]
+}
