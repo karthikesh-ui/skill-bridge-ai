@@ -1,3 +1,16 @@
+/* Discovery and catalogue controls */
+.career-card .card-actions{display:flex;align-items:center;flex-wrap:wrap;gap:12px}
+.compare-toggle{display:inline-flex;align-items:center;gap:7px;color:var(--muted);font-size:14px}
+.compare-toggle input{width:18px;height:18px;accent-color:var(--brand)}
+.compare-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:20px}
+.compare-column{min-width:0;background:var(--mint);border:1px solid #c5ead7;border-radius:12px;padding:20px}
+.compare-column dl{display:grid;grid-template-columns:minmax(100px,.65fr) 1fr;gap:9px 14px;margin:0}
+.compare-column dt{font-weight:800;color:var(--ink)}
+.compare-column dd{margin:0;color:var(--muted);overflow-wrap:anywhere}
+.comparison{margin-top:34px}
+.comparison .section-heading{margin-top:34px}
+@media(max-width:780px){.compare-grid{grid-template-columns:1fr}}
+@media(max-width:480px){.search-row{max-width:none}.search-row .input{flex:1 1 100%;min-width:0}.career-card .card-actions{align-items:stretch;flex-direction:column}.career-card .card-actions .button{width:100%}.compare-column{padding:17px}.compare-column dl{grid-template-columns:1fr;gap:3px}.compare-column dd{margin-bottom:10px}}
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
 :root{--ink:#203450;--muted:#536783;--brand:#315cbd;--brand-hover:#21499f;--sky:#eaf3ff;--mint:#e3f5ec;--peach:#fff1e5;--paper:#f8fbff;--surface:#fff;--line:#dce6f2;--focus:#d07716;--radius:18px;--shadow:0 15px 35px rgba(45,76,124,.08);--font-display:Outfit,Arial,sans-serif;--font-body:'DM Sans',Arial,sans-serif;scrollbar-color:#a6b9d3 #eff4fa;scrollbar-width:auto}
 *{box-sizing:border-box}html{scroll-behavior:smooth}html::-webkit-scrollbar,body::-webkit-scrollbar,*::-webkit-scrollbar{width:11px;height:11px}html::-webkit-scrollbar-track,body::-webkit-scrollbar-track,*::-webkit-scrollbar-track{background:#eff4fa}html::-webkit-scrollbar-thumb,body::-webkit-scrollbar-thumb,*::-webkit-scrollbar-thumb{background:#a6b9d3;border:2px solid #eff4fa;border-radius:12px}*::-webkit-scrollbar-thumb:hover{background:#829bbd}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--font-body);line-height:1.6}button,input,select,textarea{font:inherit}a{color:var(--brand);text-decoration:none}a:hover{text-decoration:underline}button{cursor:pointer}button:disabled{cursor:not-allowed;opacity:.55}:focus-visible{outline:3px solid var(--focus);outline-offset:3px}[hidden]{display:none!important}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}

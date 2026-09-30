@@ -18,7 +18,7 @@ def careers(): return jsonify(read('careers'))
 @app.get('/api/career/<career_id>')
 def career_details(career_id):
     c=career(career_id)
-    return jsonify({**c,**read('pathways')[career_id]}) if c else (jsonify(error='Career not found'),404)
+    return jsonify({**c,**read('pathways')[career_id], 'matching': read('matching').get(career_id, {})}) if c else (jsonify(error='Career not found'),404)
 @app.post('/api/career/discover')
 def career_discover():
     body=request.get_json(silent=True) or {}

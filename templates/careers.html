@@ -1,1 +1,31 @@
-{% extends 'base.html' %}{% block content %}<section><span class="pill">Career library</span><h1 id="heading">Explore careers</h1><p id="intro">Browse representative career paths across technology, healthcare, public service and more.</p><div class="search-row"><label class="sr-only" for="search">Search career or category</label><input id="search" class="input" placeholder="Search career or category"><button id="clearSearch" onclick="clearCareerSearch()" class="button secondary" aria-label="Clear search" hidden>Clear</button></div><div id="careerList" class="grid three"></div></section>{% endblock %}{% block scripts %}<script src="/static/js/career.js"></script>{% endblock %}
+{% extends 'base.html' %}{% block content %}
+<section id="personalizedSection" hidden>
+	<span class="pill">Interest-based suggestions</span>
+	<h1 id="heading">Your career exploration results</h1>
+	<p id="intro">Suggestions are based on your current answers, not predictions or eligibility decisions.</p>
+	<div class="actions"><button class="button secondary" type="button" onclick="startNewDiscovery()">Start a new discovery</button><a class="button secondary" href="/discovery">Edit answers</a></div>
+	<p id="resultsMessage" class="notice" role="status" hidden></p>
+	<div id="personalizedList" class="grid three" aria-live="polite"></div>
+	<div id="relatedSection" hidden><h2>Related professions</h2><p>These are additional careers with some overlap in your selected interests.</p><div id="relatedList" class="grid three"></div></div>
+</section>
+<section id="exploreSection">
+	<span class="pill">Career library</span>
+	<h1 id="catalogueHeading">Explore more professions</h1>
+	<p id="catalogueIntro">Browse the full catalogue separately from your interest-based suggestions.</p>
+	<div class="actions"><a id="fullCatalogueLink" class="button secondary" href="/careers">Open the full career catalogue</a></div>
+	<div class="search-row">
+		<label class="sr-only" for="search">Search profession or category</label>
+		<input id="search" class="input" type="search" placeholder="Search professions">
+		<label class="sr-only" for="categoryFilter">Filter by category</label>
+		<select class="input" id="categoryFilter"><option value="">All categories</option></select>
+		<button id="clearSearch" type="button" class="button secondary" aria-label="Clear search" hidden>Clear</button>
+	</div>
+	<p id="catalogueStatus" role="status" aria-live="polite">Loading profession catalogue...</p>
+	<div id="careerList" class="grid three"></div>
+	<div class="actions"><button id="loadMore" type="button" class="button secondary" hidden>Load more professions</button></div>
+	<section id="comparison" class="comparison" hidden aria-labelledby="comparisonTitle">
+		<div class="section-heading"><span class="eyebrow">Side-by-side</span><h2 id="comparisonTitle">Compare two careers</h2><p>Select two professions in the catalogue to compare their subjects, courses, exams, skills and alternative routes.</p><button id="clearComparison" class="button secondary" type="button">Clear comparison</button></div>
+		<div id="comparisonContent" class="compare-grid"></div>
+	</section>
+</section>
+{% endblock %}{% block scripts %}<script src="/static/js/career.js"></script>{% endblock %}
